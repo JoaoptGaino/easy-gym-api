@@ -1,0 +1,17 @@
+{
+    "Back": {
+        "0": "Kettlebell Swings",
+        "1": "Barbell Deadlift",
+        "2": "Barbell Bent-Over Row"
+    },
+    "Chest": {
+        "0": "Barbell bench press",
+        "1": "Pec deck",
+        "2": "Cable crossover"
+    },
+    "Biceps": {
+        "0": "Alternating Incline Dumbbell Curl",
+        "1": "Seated Alternating Hammer Curl",
+        "2": "Standing Barbell Curl"
+    }
+}
