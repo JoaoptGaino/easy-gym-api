@@ -5,7 +5,9 @@ const PORT = 4040;
 
 app.use(express.json());
 app.use(cors());
-app.use('/',require('./src/routes'));
+app.use('/', require('./src/routes'));
 
-app.listen(PORT,()=> `Running at ${PORT}`);
+app.listen(process.env.PORT || PORT, () => {
+    console.log(`Running at ${PORT}`);
+});
 
