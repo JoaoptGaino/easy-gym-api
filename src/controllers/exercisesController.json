@@ -1,17 +1,44 @@
 {
     "Back": {
-        "0": "Kettlebell Swings",
-        "1": "Barbell Deadlift",
-        "2": "Barbell Bent-Over Row"
+        "0": {
+            "name": "Kettlebell Swings",
+            "howto": ""
+        },
+        "1": {
+            "name": "Barbell Deadlift",
+            "howto": ""
+        },
+        "2": {
+            "name": "Barbell Bent-Over Row",
+            "howto": ""
+        }
     },
     "Chest": {
-        "0": "Barbell bench press",
-        "1": "Pec deck",
-        "2": "Cable crossover"
+        "0": {
+            "name": "Barbell bench press",
+            "howto": ""
+        },
+        "1": {
+            "name": "Pec deck",
+            "howto": ""
+        },
+        "2": {
+            "name": "Cable crossover",
+            "howto": ""
+        }
     },
     "Biceps": {
-        "0": "Alternating Incline Dumbbell Curl",
-        "1": "Seated Alternating Hammer Curl",
-        "2": "Standing Barbell Curl"
+        "0": {
+            "name": "Alternating Incline Dumbbell Curl",
+            "howto": ""
+        },
+        "1": {
+            "name": "Seated Alternating Hammer Curl",
+            "howto": ""
+        },
+        "2": {
+            "name": "Standing Barbell Curl",
+            "howto": ""
+        }
     }
 }
