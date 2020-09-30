@@ -1,0 +1,13 @@
+{
+    "Monday": [{
+        "todo": [{
+            "ChestAndTriceps": "6 exercises for chest and 3 for triceps",
+            "ChestOnly": "8 from 10 exercises"
+        }]
+    }],
+    "Tuesday": [{
+        "todo": [{
+            "BackAndBiceps": "6"
+        }]
+    }]
+}
