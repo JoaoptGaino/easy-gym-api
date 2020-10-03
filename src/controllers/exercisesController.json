@@ -1,17 +1,20 @@
 {
     "Back": [{
+            "id": 0,
             "name": "Kettlebell Swings",
             "howto": "Place a kettlebell a couple of feet in front of you. Stand with your feet slightly wider than shoulder-width apart and bend your knees to lean forward and grab the handle with both hands. With your back flat, engage your lats to pull the weight between your legs (be careful with how deep you swing) then drive your hips forward and explosively pull the kettlebell up to shoulder height with your arms straight in front of you. Return to the start position and repeat without pauses.",
             "reps": "4x12",
             "exercise": "https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/kettlbell-swing.gif?resize=768:*"
         },
         {
+            "id": 1,
             "name": "Barbell Deadlift",
             "howto": "Squat down and grasp a barbell with your hands roughly shoulder-width apart. Keep your chest up, pull your shoulders back and look straight ahead as you lift the bar. Focus on taking the weight back onto your heels and keep the bar as close as possible to your body at all times. Lift to thigh level, pause, then return under control to the start position.",
             "reps": "4x12",
             "exercise": "https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/deadlift.gif?resize=768:*"
         },
         {
+            "id": 2,
             "name": "Pull-Up",
             "howto": "Grab the handles of the pull-up station with your palms facing away from you and your arms fully extended. Your hands should be around shoulder-width apart. Squeeze your shoulder blades together, exhale and drive your elbows towards your hips to bring your chin above the bar. Lower under control back to the start position.",
             "reps": "4x12",
@@ -19,32 +22,38 @@
         }
     ],
     "Chest": [{
+            "id": 0,
             "name": "Barbell bench press",
             "howto": "",
             "reps": ""
         },
         {
+            "id": 1,
             "name": "Pec deck",
             "howto": "",
             "reps": ""
         },
         {
+            "id": 2,
             "name": "Cable crossover",
             "howto": "",
             "reps": ""
         }
     ],
     "Biceps": [{
+            "id": 0,
             "name": "Alternating Incline Dumbbell Curl",
             "howto": "",
             "reps": ""
         },
         {
+            "id": 1,
             "name": "Seated Alternating Hammer Curl",
             "howto": "",
             "reps": ""
         },
         {
+            "id": 2,
             "name": "Standing Barbell Curl",
             "howto": "",
             "reps": ""
